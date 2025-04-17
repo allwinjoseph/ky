@@ -439,7 +439,7 @@
 
       .footer-section {
         min-width: 100%;
-       
+
       }
 
       .footer-bottom-inner {
@@ -473,3 +473,16 @@
    font-size: 41px;
       top:-4px;
 }
+@media (max-width: 1192px) {
+  .footer-links {
+    padding-left: 20px; /* Adds space inside the box */
+    /* or use margin-left if you want space outside the container */
+  }
+}
+/* Remove padding on smaller (mobile) screens */
+@media (max-width: 767px) {
+  .footer-links {
+    padding-left: 0;
+  }
+}
+

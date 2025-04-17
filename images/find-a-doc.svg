@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 40" width="38" height="40">
+	<title>find-a-doc</title>
+	<defs>
+		<image  width="38" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAoCAMAAACl6XjsAAAAAXNSR0IB2cksfwAAAIFQTFRFAAAAG5WKGZiLGZiLGZiKEJ+PGZiMGpiMGZiLGJeKGJeHIJ+PGZaJGZaJGZmLGJiLGJeLGJeLEJ+AGpmLGZiLGZiLGJeJGZmLGZaLGZiKGZiLGZeLGZmNGZiLGpmNGZmLGZiMGpiMFZqFG5qKGpiLGZmLGZiMGZmJGJeJGJiMGJeL1xpgowAAACt0Uk5TADC//68Qb+/fYCAQcFDvv4BAEH/QsIDPcJDPoI+Pf4+QnzAw73CvUKCfoFUZsQkAAAGmSURBVHic3ZRtT4NADMdbHDhgmRubzvmcGB++/4fRGJNpnDozFXUq4GBDrj0Gx2CJb+2LO678aLn2f4eAiJAMIZAZGIGOPhQMrVlEr/mNHdBkfhUxDWm2PvOY7YcFbI2mxodctxhvvi1jC4bNnDLm4HdYmxneasyac+LW60qsm+YVkSsxMbLF8xXYpgvQiQKRed2rxnovYE8Atp+pWJVYPQQ94EVS+v+JiRosYXKZs/64BBN60xR1saeACYF1xjnK+gHoPUIBa08KYt19ou8ktjcC2BkCUg4hAmkHD0DNZoxWydFAEOGg++kxdXgP/BOM1SmNPUlCHQ2TJ72PA7Ca78JNOyeMQojoKP8mZ7rmpdjxbQ7jeCrFmN2/IVfAp9SM063WTM2FBQYnA/Fs+Jg2cn+efNgwp650pHWLw27rClKMiz/LcqtN/DMmjlKuuVXY+bVydagCyzAhs0wDouWnlyWYuLPsSPbM8cLFZaZitAdZW2fjDhS15jDUkkFH9ByDWmv4pZgseWpbIyjH0quS7OwCqrCst7W2qhoVAys2gqhWR81V/b/COuQ9plvf5AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 33" width="37" height="33">
+	<title>patient-portal</title>
+	<defs>
+		<image  width="37" height="33" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAhCAMAAABp0ZInAAAAAXNSR0IB2cksfwAAAD9QTFRFAAAAGpmNGpiMGZiLGpmLIJ+PGJeHGZmLGJeKGJeHGZaJGZiLGZmLGJeJG5WKGJiKGZmMGZeLGZiLGJeLGZmJjcei7wAAABV0Uk5TAH/v/38QII9gQHDfz4Awn1Cgz4BQW1/xqAAAAHdJREFUeJzd0ckKgDAMBNAZ3EFU9P//0QUXcKlaL2oDehHUOYQ2PEpJCJLYhQPM0JnOHYHRHY2WyQQFmyfTSsqId0v5f1PL3e8/qAK95QqI1HpoZBUWhxes55UK1loDif59J6st75vqFmcZb3mphHxbxUSWXyGVzpUrQ3AJ9PKAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

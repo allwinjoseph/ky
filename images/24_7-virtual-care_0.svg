@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 40" width="35" height="40">
+	<title>24_7-virtual-care_0</title>
+	<defs>
+		<image  width="35" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAoCAMAAABDwLOoAAAAAXNSR0IB2cksfwAAAHVQTFRFAAAAGJeHGpiMGpiMGZiLGZiLGJeKGpmNGZmLGJeHGZiMGJeJGZiKGJiLGZmLGZiLGZiMFZqFGZaJIJ+PGZiLGZiLGJeLGpiLGZiKEJ+PGZaLGZiKG5qKGJiMGZmMGJeLGJiLEJ+AGJeJGpmLGJeLG5WKGJeNUZuHrQAAACd0Uk5TAECf7/+/YH/PIG+AkN/v35AwcBDPsEDvrxBw3zCfUIC/EKB/oDBgwaonJQAAAVdJREFUeJytlG1PwjAQx+9mh3tAnIyxSBCD3/8b8cJFomjjIChzyNO8FhjDtF1i/L+4brff7q7XXBEAkARKIa6EBbjcqgEphjkx3sqAELQEdNdGhNJk2FyKB1f5+UuU6X2gswHwV7k6RrAgc4WMbGuqyRPOyViSsbRlX2d/Y1wrq2UarfdaJpq1eR0Tp53XGqY7Bc+fmJke/9UsBWMX8RuulUzn8+D6hu0FtLlVMlF6ZE7y53bhBGdlH5jCO74H48GL1+SlIwfVWYSMwjsLQ39I988AZSM1TJ+qiSZmhhrQTwz9kerxshwtE7KC1zHQLMPomeFjPVNRLM9CkKibw8aOTBsfnmjZMSVyl4ghjLCrm62jbsdILTMiRSNHCDeZiaH9UMLwJtESfXsk7yiavMgRy+7EssE+0UjY6iUnd3r4vxp6zwyly1+W7iCVdlZhKhHOqkn+lfkBOyh97bSuH5EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

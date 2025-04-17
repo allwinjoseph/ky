@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 27" width="39" height="27">
+	<title>pay-your-bill_0</title>
+	<defs>
+		<image  width="39" height="27" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAbCAMAAADIxWbRAAAAAXNSR0IB2cksfwAAAEhQTFRFAAAAEJ+AGpmLGZiLGpiMGZiLGZmLGJeHGZiLFZqKGZmLGZeLGJeNEJ+PGJeLGJeKGpiLGZiKGZaLGJeLGJiMIJ+PG5WKGJiLooc+bQAAABh0Uk5TABB/v+//zyDfMO+gYBBAYO+QcICfEDDfuTBSSwAAAJRJREFUeJzd00ELgzAMBeD3LJ3ChIHi//9/QzaYbFK166KeNtDk4Gk59NKP0IYXApwLm8XJBzmRM26jpRx7UGeAj4HnQWXAO7LQ20nDF72BAZnZlSa3N7hvmJtYOPwf/+7cSdKJgk/FlfeVZ4rzS+A6d9T7fp0pzxhZPwzs0rLp9IbJBcv+puoqe45m6NOOqqabXH8A+Mcji8hUOLgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

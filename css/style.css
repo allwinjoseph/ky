@@ -332,13 +332,7 @@
       line-height: 1.5;
     }
 
-    .app-features li:before {
-      content: "\2022";
-      position: absolute;
-      left: 4px;
-      color: #0066cc;
-      font-size: 16px;
-    }
+   
 
     .app-download {
       display: flex;
@@ -379,6 +373,7 @@
       color: #4D5151;
       text-decoration: none;
       font-weight: 400;
+      line-height:35px;
     }
 
     .pipe {
@@ -409,30 +404,42 @@
       width: auto;
     }
 
-    .btn_cus:hover {
-      box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
-    }
-
     .btn-yellow_cus {
       background-color: #F7C600;
       color: #4D5151;
-      border: 2px solid rgba(255, 255, 255, 0.8);
+      border: 2px solid #ffffff;
     }
+     .btn-yellow_cus:hover
+     {
+         background: linear-gradient(0deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%), #F5CB08;
+    box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.40);
+    text-decoration-line: underline;
+    color: #4D5151;
+     }
 
     .btn-green_cus {
       background-color: #1FA499;
       color: white;
-      border: 2px solid rgba(255, 255, 255, 0.8);
+      border: 2px solid #ffffff;
+    }
+    .btn-green_cus:hover
+    {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%), #19988B;
+    box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.40);
+    color: #FFFFFF;
+    text-decoration-line: underline;
     }
 
     @media (max-width: 768px) {
       .footer {
         flex-direction: column;
         gap: 36px;
+
       }
 
       .footer-section {
         min-width: 100%;
+       
       }
 
       .footer-bottom-inner {
@@ -463,5 +470,6 @@
   position: absolute;
   left: 4px;
   color: #4D5151;
-  font-size: 24px; /* Increased from 16px */
+   font-size: 41px;
+      top:-4px;
 }
